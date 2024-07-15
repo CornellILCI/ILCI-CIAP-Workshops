@@ -12,4 +12,4 @@ We will launch this demo on ILCI's Crop Improvement Analytics Platform by follow
 
 This will open the `BrAPI Helper` demo instructions [demo_2_BrAPI_Helper.ipynb](demo_2_BrAPI_Helper.ipynb) notebook. (**authorized users only**).
 
->Note that this link will redirect you to ILCI's Crop Improvement Analytics Platform, **only available for ILCI's users and Workshop attendees only**.
+>Note that this link will redirect you to ILCI's Crop Improvement Analytics Platform, **only available for ILCI's users and Workshop attendees**.
