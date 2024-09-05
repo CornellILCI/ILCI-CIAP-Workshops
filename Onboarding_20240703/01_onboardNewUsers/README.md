@@ -13,5 +13,5 @@
 
 ### There are two files included:
 
-- Presentation: ilci_virtual_workshop_20240703.pdf
-- Notebook: onBoard_202407032.ipynb
+- Presentation: [ilci_virtual_workshop_20240703.pdf](ilci_virtual_workshop_20240703)
+- Notebook: [onBoard_202407032.ipynb](onBoard_202407032.ipynb)
